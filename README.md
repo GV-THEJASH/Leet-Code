@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GV-THEJASH/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |

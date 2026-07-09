@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GV-THEJASH/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |

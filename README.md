@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GV-THEJASH/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

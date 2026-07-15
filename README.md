@@ -25,12 +25,14 @@
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |

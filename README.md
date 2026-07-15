@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -43,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -72,4 +74,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

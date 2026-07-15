@@ -64,4 +64,12 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

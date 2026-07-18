@@ -26,6 +26,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,10 +74,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GV-THEJASH/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |

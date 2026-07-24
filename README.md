@@ -6,6 +6,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GV-THEJASH/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0824-goat-latin](https://github.com/GV-THEJASH/Leet-Code/tree/master/0824-goat-latin) |
 ## Dynamic Programming
 |  |
 | ------- |

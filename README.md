@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/GV-THEJASH/Leet-Code/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

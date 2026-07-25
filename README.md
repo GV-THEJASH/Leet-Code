@@ -7,6 +7,7 @@
 | [0032-longest-valid-parentheses](https://github.com/GV-THEJASH/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0824-goat-latin](https://github.com/GV-THEJASH/Leet-Code/tree/master/0824-goat-latin) |
+| [0942-di-string-match](https://github.com/GV-THEJASH/Leet-Code/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/GV-THEJASH/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [0942-di-string-match](https://github.com/GV-THEJASH/Leet-Code/tree/master/0942-di-string-match) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -47,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/GV-THEJASH/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/GV-THEJASH/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/GV-THEJASH/Leet-Code/tree/master/0942-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/GV-THEJASH/Leet-Code/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->

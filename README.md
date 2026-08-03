@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/GV-THEJASH/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0209-minimum-size-subarray-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GV-THEJASH/Leet-Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/GV-THEJASH/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/GV-THEJASH/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/GV-THEJASH/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GV-THEJASH/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/GV-THEJASH/Leet-Code/tree/master/0904-fruit-into-baskets) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/GV-THEJASH/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0832-flipping-an-image](https://github.com/GV-THEJASH/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
